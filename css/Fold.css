@@ -1,0 +1,29 @@
+#services .box{
+    padding: 20px;
+}
+
+#contact-box p{
+    font-size: 0.8rem;
+}
+
+#navbar{
+    flex-direction: row;
+}
+#navbar ul{
+    flex-direction: column;
+}
+#logo {
+    margin: 10px 12px;
+}
+#logo img {
+    height: 40px;
+}
+
+
+.client-item {
+    padding: 0px;
+}
+
+#clients{
+    flex-direction: column;
+}
